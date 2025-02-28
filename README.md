@@ -1,11 +1,11 @@
 # IETF122-Sidemeeting-High-performance WAN
 
 Some data-intensive applications demand high-speed data transmission over WANs such as scientific research, academia, education as 
-disccussed in {{I-D.kcrh-hpwan-state-of-art}} and other applications in public networks as per {{I-D.yx-hpwan-uc-requirements-public-operator}}.
+disccussed in draft-kcrh-hpwan-state-of-art and other applications in public networks as per draft-yx-hpwan-uc-requirements-public-operator.
 The specific requirements of HP-WANs applications mainly focus on the massive data transmission over long-distance WANs within a 
 completion time. It is crucial to achieve high-throughput while ensuring the efficient use of capacity, but the performance will be impacted by
 the issues related to existing transport protocols and congestion control mechanisms such as poor convergence speed, long feedback loop, 
-unscheduled traffic and adaptation of different transport protocols as per {{I-D.xiong-hpwan-problem-statement}} . The specific technical requirements 
+unscheduled traffic and adaptation of different transport protocols as per draft- xiong-hpwan-problem-statement. The specific technical requirements 
 of HP-WANs may encompass a wide range of aspects including transport-related technologies such as proxy, flow control, QoS negotiation, congestion control,
 admission control and traffic scheduling, and also involving routing-related technologies like traffic engineering, resource scheduling, and load balancing.
 
