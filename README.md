@@ -33,8 +33,12 @@ The primary agenda is shown as below.
 5,Open Issues Discussion, 40min
 
 Related drafts:
+
 https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
+
 https://datatracker.ietf.org/doc/draft-yx-hpwan-uc-requirements-public-operator/
+
 https://datatracker.ietf.org/doc/draft-xiong-hpwan-problem-statement/
+
 
 
