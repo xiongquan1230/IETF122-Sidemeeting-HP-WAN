@@ -18,7 +18,7 @@ Location: Room 2
 
 IETF Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
-Meeting Host: Tim Chown
+Meeting Host: Tim Chown,Gorry Fairhurst
 
 The primary agenda is shown as below.
 
