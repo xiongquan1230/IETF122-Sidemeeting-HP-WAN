@@ -11,7 +11,7 @@ technologies such as proxy, flow control, QoS negotiation, congestion control, a
 routing-related technologies like traffic engineering, resource scheduling, and load balancing.
 
 We're planning to have a side meeting at IETF 122: High-performance WAN. This sidemeeting follows up discussions of HP-WAN use cases, requirements, problems 
-and technical solutions upon IETF121 BoF and online meeting.
+deployment and technical solutions upon IETF121 BoF and online meeting.
 
 Time: Thursday 20 March-18：00~19:30 (Bangkok)(3-20 PM 19：00-20：30 Beijing Time)
 
@@ -29,9 +29,9 @@ The primary agenda is shown as below.
 
 3,Problems and gap analysis for HP-WAN, 15min
 
-4,Scenarios and Deployment Considerations，10min
+4,Scenarios and deployment considerations for HP-WAN，10min
 
-5,Technical soulutions and applicable technology, 15min
+5,Technical soulutions and applicable technologies for HP-WAN, 15min
 
 6,Open Issues Discussion, 30min
 
