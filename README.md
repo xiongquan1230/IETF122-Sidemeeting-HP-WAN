@@ -29,9 +29,11 @@ The primary agenda is shown as below.
 
 3,Problems and gap analysis for HP-WAN, 15min
 
-4,Technical soulutions and applicable technology, 15min
+4，Scenarios and Deployment Considerations，10min
 
-5,Open Issues Discussion, 40min
+5,Technical soulutions and applicable technology, 15min
+
+6,Open Issues Discussion, 30min
 
 Related drafts:
 
@@ -40,6 +42,9 @@ https://datatracker.ietf.org/doc/draft-kcrh-hpwan-state-of-art/
 https://datatracker.ietf.org/doc/draft-yx-hpwan-uc-requirements-public-operator/
 
 https://datatracker.ietf.org/doc/draft-xiong-hpwan-problem-statement/
+
+https://datatracker.ietf.org/doc/draft-zhao-hpwan-scenarios-deployment/
+
 
 
 
