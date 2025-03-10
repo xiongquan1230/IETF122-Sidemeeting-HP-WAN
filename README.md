@@ -29,7 +29,7 @@ The primary agenda is shown as below.
 
 3,Problems and gap analysis for HP-WAN, 15min
 
-4，Scenarios and Deployment Considerations，10min
+4,Scenarios and Deployment Considerations，10min
 
 5,Technical soulutions and applicable technology, 15min
 
