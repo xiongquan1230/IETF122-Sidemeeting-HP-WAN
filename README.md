@@ -25,15 +25,15 @@ The primary agenda is shown as below.
 
 1,Note well, welcome statements, introduction and agenda bash. 5mins
 
-2,Use cases and requirements from public operators' view , 15min
+2,Use cases and requirements from public operators' view , 10min
 
-3,Problems and gap analysis for HP-WAN, 15min
+3,Problems and gap analysis for HP-WAN, 10min
 
 4,Scenarios and deployment considerations for HP-WAN，10min
 
-5,Technical soulutions and applicable technologies for HP-WAN, 15min
+5,Technical soulutions and applicable technologies for HP-WAN, 10min
 
-6,Open Issues Discussion, 30min
+6,Open Issues Discussion, 45min
 
 Related drafts:
 
