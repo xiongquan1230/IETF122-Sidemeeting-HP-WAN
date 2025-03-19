@@ -21,6 +21,8 @@ IETF Webex: https://ietf.webex.com/meet/ietfsidemeeting2
 
 Meeting Host: Tim Chown,Gorry Fairhurst,Daniel Huang
 
+Notes：https://etherpad.wikimedia.org/p/hpwan-sidemeeting-ietf122
+
 The primary agenda is shown as below.
 
 1,Note well, welcome statements, introduction and agenda bash. 5mins
