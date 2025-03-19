@@ -31,9 +31,9 @@ The primary agenda is shown as below.
 
 3,Problems and gap analysis for HP-WAN, 10min
 
-4,Scenarios and deployment considerations for HP-WAN，10min
+4,Technical soulutions and applicable technologies for HP-WAN, 10min
 
-5,Technical soulutions and applicable technologies for HP-WAN, 10min
+5,Scenarios and deployment considerations for HP-WAN，10min
 
 6,Open Issues Discussion, 45min
 
