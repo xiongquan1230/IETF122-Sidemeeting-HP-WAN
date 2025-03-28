@@ -18,10 +18,15 @@ The primary agenda is shown as below.
 
 3,Problems and gap analysis for HP-WAN, Daniel Huang, 10min
 
-4,Scenarios and deployment considerations for HP-WAN, 10min
+4,Scenarios and deployment considerations for HP-WAN, Junfeng Zhao,10min
+
+5,Technical soulutions and applicable technologies for HP-WAN, Quan Xiong, 10min
+
+6,Open Issues Discussion, 45min
 
 Presentation Highlights:
 ------------------------
+*Use cases and requirements for HP-WAN  (Kehan Yao, 10 mins).
 
 Colin Perkins:
 
@@ -49,7 +54,7 @@ Zehad:
 
 - Clarified low loss as a link/path issue rather than transport protocol. Recommended exploring enhanced congestion control or smart routing information strategies.
 
-Problems and gap analysis for HP-WAN (Daniel Huang, 10 mins).
+*Problems and gap analysis for HP-WAN (Daniel Huang, 10 mins).
 
 Colin Perkins:
 
@@ -59,7 +64,7 @@ Daniel Huang:
 
 - Confirmed ongoing efforts to specify host and network functionalities, leveraging existing technologies and edge devices.
 
-Scenarios and deployment considerations for HP-WAN (10 mins).
+*Scenarios and deployment considerations for HP-WAN (Junfeng Zhao,10 mins).
 
 Gorry:
 
@@ -77,7 +82,7 @@ Daniel Huang:
 
 - Acknowledged Gorry's concerns, agreeing that transport translation provides benefits but also poses challenges.
 
-Technical solutions and applicable technologies for HP-WAN (10 mins).
+*Technical solutions and applicable technologies for HP-WAN (Quan Xiong,10 mins).
 
 Open Issues Discussion (45 mins).
 ---------------------------------
