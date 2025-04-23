@@ -143,6 +143,11 @@ Conclusion:
 
 A full transcription of meeting is below. 
 -----------------------------------------
+1,Note well, welcome statements, introduction and agenda bash, Daniel Huang.5min
+
+No comments.
+
+2,Use cases and requirements from public operators' view, Kehan Yao,10min
 
 Colin: Those requirements are sort of nice to have. Is there like a priority list?
 Or is it simply sort of absolute? 
@@ -225,7 +230,7 @@ That's why we get an edge network devices involved. There will be there will be 
 between the hosted network, but when when it comes to the the Traffic scheduling. Within the network, I believe.
 The existing technologies to not technology will apply for those scenarios.
 
-4,Scenarios and deployment considerations for HP-WAN，10min
+4,Scenarios and deployment considerations for HP-WAN，Junfeng Zhao,10min
 
 Gorry: Why we had gateway there rather than encapsulating or tunnel or something because to me gateway is
 quite as scary term. Does it have to be a gateway?
